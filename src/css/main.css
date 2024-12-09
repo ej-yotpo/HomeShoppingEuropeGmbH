@@ -29,7 +29,7 @@ body {
   flex-flow: column wrap;
 }
 
-.accordion-body{padding:0!important;}
+#accordionExample .accordion-collapse .accordion-body{padding:0!important;}
 
 .logo {
   display: flex;
